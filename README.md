@@ -20,3 +20,14 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
 
   
   [-ChainofResponsibility Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.ChainOfResponsibilityDP)
+
+  <p>Main Goal Of ChainofResponsibility Design Pattern : This design pattern provides us to bind our all process moreover seperate this process to step by step.With this way , when u want to add new part or new behaviour to your application, you can easily add a new chain in addition to that gives a chance to modify your step.</p>
+  <p>In this scenario, we have 3 steps. This means our application has 3 chains:
+     </p>
+  
+ * Excell Process
+ * Zip Process
+ * E-mail Process
+  
+  
+  
