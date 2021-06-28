@@ -17,3 +17,6 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
 
 
 ![Strategy Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdCvxyNdNtReLgrZiiF%2F-MdCy5uFmcL6lHU4nwPu%2FStrategyDp1.PNG?alt=media&token=ca661ff3-301e-4804-835b-f1efec54041e)
+
+  
+  [-ChainofResponsibility Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.ChainOfResponsibilityDP)
