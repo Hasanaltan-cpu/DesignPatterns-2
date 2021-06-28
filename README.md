@@ -29,5 +29,7 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
  * Zip Process
  * E-mail Process
   
+  ![ChainofResponsibility Design Pattern] (https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdGUyZYySU0MfEhGCg3%2F-MdGV5FSNPnGxwg31l-D%2FCOR.Dp.Schema.PNG?alt=media&token=73f46548-6304-4a3e-a339-2e8f5c2092ab)
+  
   
   
