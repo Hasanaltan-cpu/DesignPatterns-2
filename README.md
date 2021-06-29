@@ -43,4 +43,28 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
   ![ChainofResponsibility Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdGUyZYySU0MfEhGCg3%2F-MdGV5FSNPnGxwg31l-D%2FCOR.Dp.Schema.PNG?alt=media&token=73f46548-6304-4a3e-a339-2e8f5c2092ab)
   
   
+  [3-Command Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.CommandDp)
+
+  <p>Main Goal Of Command Design Pattern : This design pattern provides us to capsulate our all methods.When u want to modify,u can easily reach your Command invoker in addition to that it gives a chance to losely coupled classes.</p>
+  <p>In this scenario, we have 3 steps. This means our application has 3 commands:
+     </p>
+  
+ * Excell Process
+ * Pdf Process
+ * Excell&Pdf + Zip Process
+  
+  
+  <h4>Requirements :<h4>
+  
+ * DinktoPDF
+ * ClosedXML
+ * SqlServer
+ * EntityFramework Core
+ * EntityFramework Core Identity
+ * EntityFramework Core SqlServer
+ * EntityFramework Core Tools
+
+  
+  ![Command Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdNPhRhsfmk9Noqf4hC%2F-MdNPjWipmivqNR0034U%2FCommandDp.PNG?alt=media&token=f60f3bbe-6764-43d1-a1c4-1b6ec909b8ae)
+  
   
