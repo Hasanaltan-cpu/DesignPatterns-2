@@ -1,0 +1,24 @@
+﻿@model UserCreateVM
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+<h1>SignUp</h1>
+<h2>@ViewBag.Message</h2>
+<form asp-controller="Account" asp-action="SignUp" method="post">
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">UserName</label>
+        <input asp-for="UserName" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email</label>
+        <input asp-for="Email" type="email"  class="form-control">
+        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    </div>
+    <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Password</label>
+        <input asp-for="Password" type ="password" value="Password12+" class="form-control" >
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
