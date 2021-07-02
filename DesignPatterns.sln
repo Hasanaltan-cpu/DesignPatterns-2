@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.CommandDP", "WebApp.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.ObserverDP", "WebApp.ObserverDP\WebApp.ObserverDP.csproj", "{61D0B2DB-B46A-4C96-8997-C1B2879BD6C0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.AdapterDP", "WebApp.AdapterDP\WebApp.AdapterDP.csproj", "{4C51CCF3-263B-4849-97D8-7D34DF3FF8C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61D0B2DB-B46A-4C96-8997-C1B2879BD6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D0B2DB-B46A-4C96-8997-C1B2879BD6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D0B2DB-B46A-4C96-8997-C1B2879BD6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C51CCF3-263B-4849-97D8-7D34DF3FF8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C51CCF3-263B-4849-97D8-7D34DF3FF8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C51CCF3-263B-4849-97D8-7D34DF3FF8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C51CCF3-263B-4849-97D8-7D34DF3FF8C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
