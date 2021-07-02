@@ -94,5 +94,7 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
   
     [5-Adapter Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.AdapterDP)
     
+    <p>Loading</p>
+    
     
     
