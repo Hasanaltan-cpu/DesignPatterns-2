@@ -111,6 +111,6 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
  * EntityFramework Core Tools
 
   
-  ![Adepter Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdaHPxedkrhwj3zVP5u%2F-MdaIzvL_yNnR5xfD3-s%2FAdapterDpSchema.png?alt=media&token=78404be3-2ba1-4ed9-a6b0-2c3689a7c10f)
+  ![Adepter Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdaliedXqpaP028Q787%2F-MdaltU1KCkUjdvjT43W%2FAdapterDpSchema.png?alt=media&token=19bc9cd6-7ba1-4adf-8311-f3a50fdb5096)
     
     
