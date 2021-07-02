@@ -67,4 +67,26 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
   
   ![Command Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdNPhRhsfmk9Noqf4hC%2F-MdNPjWipmivqNR0034U%2FCommandDp.PNG?alt=media&token=f60f3bbe-6764-43d1-a1c4-1b6ec909b8ae)
   
+  [4-Observer Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.ObserverDP)
+
+  <p>Main Goal Of Observer Design Pattern : This design pattern provides us to observe object from the other objects which is binded with it.Observer DP gives an oppurtunitty losely coupled classes in terms of high level modules to low level modules.Moreover,it provides writing codes shed light from SOLiD Principles.</p>
+  <p>In this scenario, we have 3 steps. When a new user register our application:
+     </p>
+  
+ * Log to Console;
+ * Create a Discount to New User;
+ * Send E-mail automatically."Wellcome www.default.com site "
+  
+  
+  <h4>Requirements :<h4>
+  
+ * SqlServer
+ * EntityFramework Core
+ * EntityFramework Core Identity
+ * EntityFramework Core SqlServer
+ * EntityFramework Core Tools
+
+  
+  ![Observer Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdSBpww9XS3ORi3wR1C%2F-MdSD2Eq8liRzsbDxqTc%2FObserverDP.PNG?alt=media&token=3be50b2a-61d5-4bc6-b43c-8c94419d3be0)
+  
   
