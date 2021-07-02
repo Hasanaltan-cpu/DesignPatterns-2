@@ -90,3 +90,27 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
   ![Observer Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdSBpww9XS3ORi3wR1C%2F-MdSD2Eq8liRzsbDxqTc%2FObserverDP.PNG?alt=media&token=3be50b2a-61d5-4bc6-b43c-8c94419d3be0)
     
     
+[5-Adapter Design Pattern](https://github.com/Hasanaltan-cpu/DesignPatterns-2/tree/master/WebApp.AdapterDP)
+
+  <p>Main Goal Of Adapter Design Pattern : Adapter Design Pattern is very common in terms of usage;because it is very usefull.Even tough application was deployed with this pattern you may change any interfaceses without touch general structure.Common example for AdapterDp is , electrical socket.When you can not use same input socket , you can add a new one which provide exchange type of your socket to suitable one.</p>
+  <p>In this scenario, we have 2 steps.Our Application will watermark to our image which we save.
+     </p>
+  
+ * Watermark to Image with Manuel code;
+ * Watermark to Image with Thirdpart tool;
+ * Use Adapter for this process
+  
+  
+  <h4>Requirements :<h4>
+  
+ * DrawingCommon
+ * A Thirdpart Image Resizer
+ * EntityFramework Core
+ * EntityFramework Core Identity
+ * EntityFramework Core SqlServer
+ * EntityFramework Core Tools
+
+  
+  ![Adepter Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdaHPxedkrhwj3zVP5u%2F-MdaIzvL_yNnR5xfD3-s%2FAdapterDpSchema.png?alt=media&token=78404be3-2ba1-4ed9-a6b0-2c3689a7c10f)
+    
+    
