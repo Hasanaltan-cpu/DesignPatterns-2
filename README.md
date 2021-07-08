@@ -86,6 +86,7 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
  * EntityFramework Core SqlServer
  * EntityFramework Core Tools
 
+    
   
   ![Observer Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdSBpww9XS3ORi3wR1C%2F-MdSD2Eq8liRzsbDxqTc%2FObserverDP.PNG?alt=media&token=3be50b2a-61d5-4bc6-b43c-8c94419d3be0)
     
