@@ -113,5 +113,4 @@ By using Strategy Design Pattern, u don't need to change database on compile tim
 
   
   ![Adepter Design Pattern](https://gblobscdn.gitbook.com/assets%2F-MdCvvJ7c76YPOoGbwQJ%2F-MdaliedXqpaP028Q787%2F-MdaltU1KCkUjdvjT43W%2FAdapterDpSchema.png?alt=media&token=19bc9cd6-7ba1-4adf-8311-f3a50fdb5096)
-    
-    
+   
